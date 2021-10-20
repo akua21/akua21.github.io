@@ -7,6 +7,7 @@
      "proyects": "Projects"
    },
    "frontpage": {
+     "profile_picture": "assets/images/profile_picture.jpg",
      "profile_alt": "profile",
      "name": "Full Name",
      "role": "Ingeniería Informática",
